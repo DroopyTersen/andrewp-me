@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "moduleResolution": "node",
     "target": "es2019",
-    "strict": true,
+    "strict": false,
     "skipLibCheck": true
   }
 }
